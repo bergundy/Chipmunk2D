@@ -50,3 +50,6 @@ msvc/vc13/demo/x64/
 msvc/vc14/demo/Win32/
 msvc/vc14/demo/x64/
 
+msvc/vc14/chipmunk/.vs/
+msvc/vc14/chipmunk/chipmunk.sln
+msvc/vc14/chipmunk/x64/
