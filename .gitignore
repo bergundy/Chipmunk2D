@@ -53,3 +53,4 @@ msvc/vc14/demo/x64/
 msvc/vc14/chipmunk/.vs/
 msvc/vc14/chipmunk/chipmunk.sln
 msvc/vc14/chipmunk/x64/
+*.dylib
